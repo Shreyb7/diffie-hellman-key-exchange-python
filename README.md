@@ -36,7 +36,7 @@ This implementation accepts user input for the public parameters and private key
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/diffie-hellman-key-exchange-python.git
+git clone https://github.com/Shreyb7/diffie-hellman-key-exchange-python.git
 ```
 
 Navigate into the project:
